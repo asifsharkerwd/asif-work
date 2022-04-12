@@ -1,0 +1,333 @@
+@media screen and (min-width:768px) and (max-width:991px) {
+    .left-top-bar-icon-item {
+        display: none;
+        text-align: center;
+    }
+ /*  ========== hero section========= */
+        
+    .hreo-item h2 {
+        font-size: 50px;
+        font-weight: 900;
+        color: #28395A;
+        font-weight: bold;
+        font-family: 'Muli-Bold';
+    
+
+    }
+    .hreo-item h2 br {
+        display: none;
+    }
+        
+    /* ===========Top Categories ======== */ 
+    .to-catagorics-aera {
+        padding: 80px 0;
+    }
+    .top-categories-title h2 {
+        font-size: 50px;
+        color: #28395a;
+        margin-bottom: 60px;
+    
+    }
+
+    /* =========CV-area========  */
+    .cv-over-lay {
+        background-color: rgba(44, 55, 141, 0.868);
+        padding: 88px 0 88px  0;
+    }
+    .cv-containt h2{
+        font-size: 27px;
+
+    }
+
+    .browse-all-sector a{
+        padding: 15px 40px;
+     
+    
+    }
+    .cv-containt h2 br {
+        background: none;
+    
+    }
+    /*====== job area =========== */
+    .featured-area {
+        padding: 100px 0 55px 0;
+        overflow: hidden;
+    }
+    .job-title ul li {
+        margin-left: 18px;
+    }
+    .job-title {
+        padding: 0px 51px;
+      }
+      .jon-link-left a {
+        border-radius: 70px;
+        padding: 8px 12px;
+        margin-bottom: 28px;
+      }
+      .job-link span {
+        font-size: 15px;
+      }
+      .work-item {
+        margin-bottom: 30px;
+    }
+
+    .talented-left-item {
+        padding: 4px 50px 0 11px;
+      }
+      .talented-right-item img {
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .join-area  {
+        background-color: #1E2A78;
+        width: 165px;
+        text-align: center;
+        padding: 17px 5px;
+        border-radius: 5px;
+        position: absolute;
+        top: 80%;
+        top: 86%;
+        left: 0px;
+      
+    }
+
+    /* ======= testimonial area ====== */
+    .testimonial-area {
+        padding: 60px 0;
+      }
+/* =======  talanted ====== */
+      .talented-area {
+        background-color: #fff;
+        padding: 83px 0;
+      }
+      .talented-left-item h5 {
+        font-size: 16px;
+        color: #fb246a;
+        font-weight: 400;
+        text-transform: uppercase;
+        padding: 0px 0 24px 0;
+      }
+
+      .talented-area {
+        background-color: #fff;
+        padding: 14px 0;
+      }
+
+      .work-area {
+        
+        padding: 62px 0;
+      }
+
+       /* footer======== */
+      .footer-area {
+        padding: 100px 0;
+      }
+       .footer-item {
+        padding: 30px 0;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:767px) {
+    
+
+/*  ========== hero section========= */
+    .hero-section {
+        padding: 60px 0;
+    
+    }
+    .hero-form {
+        margin-top: 40px;
+    }
+    .hreo-item h2 {
+     font-size: 27px;
+    }
+    .hreo-item br {
+        display: none;
+    }
+    .h-form-content {
+        margin-bottom: 20px;
+    }
+
+        
+    /* ===========Top Categories ======== */ 
+    .to-catagorics-aera {
+        padding: 80px 0;
+    }
+    .top-categories-title h2 {
+        font-size: 30px;
+        color: #28395a;
+        margin-bottom: 50px;
+    
+    }
+
+    /* =========CV-area========  */
+    .cv-over-lay {
+        background-color: rgba(44, 55, 141, 0.868);
+        padding: 88px 0 88px  0;
+    }
+    .cv-containt h2{
+        font-size: 27px;
+
+    }
+
+    .browse-all-sector a{
+        padding: 15px 40px;
+     
+    
+    }
+
+    .cv-containt h2 br {
+        background: none;
+    
+    }
+
+
+    /* ===========job area ========== */
+    .featured-area {
+        padding: 100px 0 55px 0;
+        overflow: hidden;
+    }
+    .job-title {
+        padding: 0;
+      }
+      .job-title h4 {
+        padding: 26px 0 7px 0;
+      }
+
+      .job-title ul li {
+        margin-left: 10px;
+    }
+
+    .jon-link-left {
+        margin-top: 45px;
+    }
+    /* ========How it works-area========= */
+   
+    .work-area {
+        padding: 70px 0;
+    }
+
+    .work-item {
+        margin-bottom: 30px;
+    }
+
+    .work-title h2{
+        font-size: 30px;
+        color: #fff;
+        font-weight: 700;
+        text-decoration: none;
+        margin-bottom: 50px;
+    }
+
+    .join-area  {
+        background-color: #1E2A78;
+        width: 165px;
+        text-align: center;
+        padding: 17px 5px;
+        border-radius: 5px;
+        position: absolute;
+        top: 80%;
+        top: 71%;
+        left: 0px;
+      
+    }
+
+    .join-area span {
+        font-size: 20px;
+        font-weight: 400px;
+        color: #fff;
+        
+    }
+    
+    .join-area h2{
+        font-size: 60px;
+        font-weight: 700px;
+        color: #fff;
+        
+    }
+
+     /* ======= testimonial area ====== */
+     .testimonial-area {
+        padding: 60px 0;
+      }
+    /* =======  talanted ====== */
+      .talented-area {
+        background-color: #fff;
+        padding: 83px 0;
+      }
+      .talented-left-item h5 {
+        font-size: 16px;
+        color: #fb246a;
+        font-weight: 400;
+        text-transform: uppercase;
+        padding: 0px 0 24px 0;
+      }
+
+      .talented-area {
+        background-color: #fff;
+        padding: 14px 0;
+      }
+
+      .work-area {
+        
+        padding: 62px 0;
+      }
+
+      .talented-left-item {
+        padding: 0 26px 0 11px;
+      }
+      .talented-right-item img {
+        border-radius: 10px;
+        margin-top: 47px;
+      }
+
+      /* footer======== */
+      .footer-area {
+        padding: 50px 0;
+      }
+      .footer-item {
+        padding: 30px 0;
+    }
+
+    .f-content {
+      margin-bottom: 10px;
+      margin-top: 20px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
